@@ -1,0 +1,466 @@
+{
+  "relogios": [
+    {
+      "codigo": "R009",
+      "quantidade": 7
+    },
+    {
+      "codigo": "R002",
+      "quantidade": 23
+    },
+    {
+      "codigo": "R006",
+      "quantidade": 28
+    },
+    {
+      "codigo": "R001",
+      "quantidade": 22
+    },
+    {
+      "codigo": "R004",
+      "quantidade": 44
+    },
+    {
+      "codigo": "R000",
+      "quantidade": 19
+    },
+    {
+      "codigo": "R003",
+      "quantidade": 317
+    },
+    {
+      "codigo": "Relogio_Flow",
+      "quantidade": 3
+    },
+    {
+      "codigo": "R008",
+      "quantidade": 10
+    },
+    {
+      "codigo": "R007",
+      "quantidade": 25
+    },
+    {
+      "codigo": "outro_clock",
+      "quantidade": 10
+    },
+    {
+      "codigo": "R005",
+      "quantidade": 8
+    },
+    {
+      "codigo": "ox200",
+      "quantidade": 0
+    }
+  ],
+  "historico": [
+    {
+      "codigo": "R009",
+      "quantidade": 6,
+      "operacao": "VENDA",
+      "timestamp": "2024-12-03 19:59:55"
+    },
+    {
+      "codigo": "R003",
+      "quantidade": 9,
+      "operacao": "VENDA",
+      "timestamp": "2024-12-05 23:52:03"
+    },
+    {
+      "codigo": "R003",
+      "quantidade": 1,
+      "operacao": "VENDA",
+      "timestamp": "2024-12-03 17:39:46"
+    },
+    {
+      "codigo": "R001",
+      "quantidade": 4,
+      "operacao": "CADASTRO",
+      "timestamp": "2024-12-03 23:40:18"
+    },
+    {
+      "codigo": "R000",
+      "quantidade": 5,
+      "operacao": "COMPRA",
+      "timestamp": "2024-12-03 16:44:28"
+    },
+    {
+      "codigo": "R003",
+      "quantidade": 3,
+      "operacao": "VENDA",
+      "timestamp": "2024-12-06 03:58:30"
+    },
+    {
+      "codigo": "R007",
+      "quantidade": 7,
+      "operacao": "COMPRA",
+      "timestamp": "2024-12-08 09:53:45"
+    },
+    {
+      "codigo": "R005",
+      "quantidade": 7,
+      "operacao": "COMPRA",
+      "timestamp": "2024-12-03 04:08:24"
+    },
+    {
+      "codigo": "R009",
+      "quantidade": 6,
+      "operacao": "VENDA",
+      "timestamp": "2024-12-08 10:22:45"
+    },
+    {
+      "codigo": "R001",
+      "quantidade": 7,
+      "operacao": "CADASTRO",
+      "timestamp": "2024-12-05 21:26:01"
+    },
+    {
+      "codigo": "R008",
+      "quantidade": 7,
+      "operacao": "CADASTRO",
+      "timestamp": "2024-12-08 16:01:04"
+    },
+    {
+      "codigo": "R006",
+      "quantidade": 2,
+      "operacao": "COMPRA",
+      "timestamp": "2024-12-01 14:41:47"
+    },
+    {
+      "codigo": "R001",
+      "quantidade": 3,
+      "operacao": "CADASTRO",
+      "timestamp": "2024-11-28 23:52:00"
+    },
+    {
+      "codigo": "R007",
+      "quantidade": 2,
+      "operacao": "VENDA",
+      "timestamp": "2024-12-04 23:55:02"
+    },
+    {
+      "codigo": "R003",
+      "quantidade": 4,
+      "operacao": "CADASTRO",
+      "timestamp": "2024-11-29 05:15:56"
+    },
+    {
+      "codigo": "R000",
+      "quantidade": 2,
+      "operacao": "VENDA",
+      "timestamp": "2024-11-30 03:53:53"
+    },
+    {
+      "codigo": "R003",
+      "quantidade": 4,
+      "operacao": "CADASTRO",
+      "timestamp": "2024-11-30 03:31:54"
+    },
+    {
+      "codigo": "R008",
+      "quantidade": 6,
+      "operacao": "VENDA",
+      "timestamp": "2024-12-03 16:00:58"
+    },
+    {
+      "codigo": "R000",
+      "quantidade": 5,
+      "operacao": "CADASTRO",
+      "timestamp": "2024-12-08 02:15:17"
+    },
+    {
+      "codigo": "R003",
+      "quantidade": 9,
+      "operacao": "VENDA",
+      "timestamp": "2024-12-04 19:49:50"
+    },
+    {
+      "codigo": "R002",
+      "quantidade": 9,
+      "operacao": "VENDA",
+      "timestamp": "2024-12-01 08:37:15"
+    },
+    {
+      "codigo": "R007",
+      "quantidade": 6,
+      "operacao": "CADASTRO",
+      "timestamp": "2024-12-08 12:46:36"
+    },
+    {
+      "codigo": "R001",
+      "quantidade": 9,
+      "operacao": "CADASTRO",
+      "timestamp": "2024-12-05 03:41:03"
+    },
+    {
+      "codigo": "R001",
+      "quantidade": 5,
+      "operacao": "CADASTRO",
+      "timestamp": "2024-11-29 02:13:56"
+    },
+    {
+      "codigo": "R003",
+      "quantidade": 9,
+      "operacao": "VENDA",
+      "timestamp": "2024-12-07 09:38:49"
+    },
+    {
+      "codigo": "R006",
+      "quantidade": 1,
+      "operacao": "COMPRA",
+      "timestamp": "2024-11-30 23:20:00"
+    },
+    {
+      "codigo": "R004",
+      "quantidade": 3,
+      "operacao": "VENDA",
+      "timestamp": "2024-12-05 22:26:20"
+    },
+    {
+      "codigo": "R009",
+      "quantidade": 6,
+      "operacao": "CADASTRO",
+      "timestamp": "2024-12-06 05:29:24"
+    },
+    {
+      "codigo": "R007",
+      "quantidade": 1,
+      "operacao": "CADASTRO",
+      "timestamp": "2024-12-01 07:00:51"
+    },
+    {
+      "codigo": "R009",
+      "quantidade": 4,
+      "operacao": "CADASTRO",
+      "timestamp": "2024-12-08 03:51:34"
+    },
+    {
+      "codigo": "R009",
+      "quantidade": 2,
+      "operacao": "VENDA",
+      "timestamp": "2024-12-06 03:15:58"
+    },
+    {
+      "codigo": "R006",
+      "quantidade": 4,
+      "operacao": "VENDA",
+      "timestamp": "2024-11-29 13:51:45"
+    },
+    {
+      "codigo": "R002",
+      "quantidade": 8,
+      "operacao": "VENDA",
+      "timestamp": "2024-11-30 14:15:31"
+    },
+    {
+      "codigo": "R005",
+      "quantidade": 3,
+      "operacao": "CADASTRO",
+      "timestamp": "2024-12-02 06:00:48"
+    },
+    {
+      "codigo": "R009",
+      "quantidade": 7,
+      "operacao": "CADASTRO",
+      "timestamp": "2024-12-01 22:38:47"
+    },
+    {
+      "codigo": "R004",
+      "quantidade": 1,
+      "operacao": "COMPRA",
+      "timestamp": "2024-12-06 13:30:11"
+    },
+    {
+      "codigo": "R003",
+      "quantidade": 9,
+      "operacao": "VENDA",
+      "timestamp": "2024-12-08 09:57:06"
+    },
+    {
+      "codigo": "R008",
+      "quantidade": 8,
+      "operacao": "CADASTRO",
+      "timestamp": "2024-12-06 00:19:50"
+    },
+    {
+      "codigo": "R000",
+      "quantidade": 5,
+      "operacao": "VENDA",
+      "timestamp": "2024-12-03 22:23:30"
+    },
+    {
+      "codigo": "R005",
+      "quantidade": 1,
+      "operacao": "CADASTRO",
+      "timestamp": "2024-12-03 18:38:16"
+    },
+    {
+      "codigo": "R009",
+      "quantidade": 1,
+      "operacao": "COMPRA",
+      "timestamp": "2024-12-06 15:37:48"
+    },
+    {
+      "codigo": "R005",
+      "quantidade": 2,
+      "operacao": "CADASTRO",
+      "timestamp": "2024-12-06 08:25:34"
+    },
+    {
+      "codigo": "R002",
+      "quantidade": 4,
+      "operacao": "CADASTRO",
+      "timestamp": "2024-11-30 01:23:29"
+    },
+    {
+      "codigo": "R002",
+      "quantidade": 4,
+      "operacao": "VENDA",
+      "timestamp": "2024-12-07 11:43:05"
+    },
+    {
+      "codigo": "R001",
+      "quantidade": 5,
+      "operacao": "CADASTRO",
+      "timestamp": "2024-12-05 23:55:18"
+    },
+    {
+      "codigo": "R007",
+      "quantidade": 8,
+      "operacao": "COMPRA",
+      "timestamp": "2024-12-08 16:14:08"
+    },
+    {
+      "codigo": "R006",
+      "quantidade": 4,
+      "operacao": "COMPRA",
+      "timestamp": "2024-12-05 17:48:33"
+    },
+    {
+      "codigo": "R007",
+      "quantidade": 1,
+      "operacao": "COMPRA",
+      "timestamp": "2024-12-08 05:03:14"
+    },
+    {
+      "codigo": "R009",
+      "quantidade": 4,
+      "operacao": "COMPRA",
+      "timestamp": "2024-11-29 16:53:28"
+    },
+    {
+      "codigo": "R003",
+      "quantidade": 2,
+      "operacao": "CADASTRO",
+      "timestamp": "2024-12-06 06:12:56"
+    },
+    {
+      "codigo": "R003",
+      "quantidade": 2,
+      "operacao": "COMPRA",
+      "timestamp": "2024-12-08 19:05:10"
+    },
+    {
+      "codigo": "Relogio_Flow",
+      "quantidade": 200,
+      "operacao": "CADASTRO",
+      "timestamp": "2024-12-08 19:05:49"
+    },
+    {
+      "codigo": "Relogio_Flow",
+      "quantidade": 50,
+      "operacao": "VENDA",
+      "timestamp": "2024-12-08 19:06:57"
+    },
+    {
+      "codigo": "R003",
+      "quantidade": 300,
+      "operacao": "COMPRA",
+      "timestamp": "2024-12-08 21:07:11"
+    },
+    {
+      "codigo": "Relogio_Flow",
+      "quantidade": 30,
+      "operacao": "VENDA",
+      "timestamp": "2024-12-08 21:08:22"
+    },
+    {
+      "codigo": "Relogio_Flow",
+      "quantidade": 300,
+      "operacao": "COMPRA",
+      "timestamp": "2024-12-08 21:21:26"
+    },
+    {
+      "codigo": "R005",
+      "quantidade": 2,
+      "operacao": "VENDA",
+      "timestamp": "2024-12-08 21:24:10"
+    },
+    {
+      "codigo": "Relogio_Flow",
+      "quantidade": 200,
+      "operacao": "VENDA",
+      "timestamp": "2024-12-08 21:28:42"
+    },
+    {
+      "codigo": "Relogio_Flow",
+      "quantidade": 2,
+      "operacao": "COMPRA",
+      "timestamp": "2024-12-08 21:28:49"
+    },
+    {
+      "codigo": "outro_clock",
+      "quantidade": 10,
+      "operacao": "CADASTRO",
+      "timestamp": "2024-12-08 21:29:20"
+    },
+    {
+      "codigo": "R000",
+      "quantidade": 2,
+      "operacao": "COMPRA",
+      "timestamp": "2024-12-08 21:34:00"
+    },
+    {
+      "codigo": "Relogio_Flow",
+      "quantidade": 222,
+      "operacao": "VENDA",
+      "timestamp": "2024-12-08 21:38:32"
+    },
+    {
+      "codigo": "R005",
+      "quantidade": 2,
+      "operacao": "COMPRA",
+      "timestamp": "2024-12-08 21:44:51"
+    },
+    {
+      "codigo": "Relogio_Flow",
+      "quantidade": 2,
+      "operacao": "COMPRA",
+      "timestamp": "2024-12-08 22:18:42"
+    },
+    {
+      "codigo": "Relogio_Flow",
+      "quantidade": 2,
+      "operacao": "VENDA",
+      "timestamp": "2024-12-08 22:19:16"
+    },
+    {
+      "codigo": "Relogio_Flow",
+      "quantidade": 3,
+      "operacao": "COMPRA",
+      "timestamp": "2024-12-09 13:32:45"
+    },
+    {
+      "codigo": "ox200",
+      "quantidade": 2,
+      "operacao": "CADASTRO",
+      "timestamp": "2024-12-09 13:35:00"
+    },
+    {
+      "codigo": "ox200",
+      "quantidade": 2,
+      "operacao": "VENDA",
+      "timestamp": "2024-12-09 13:35:07"
+    }
+  ]
+}

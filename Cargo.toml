@@ -1,0 +1,20 @@
+[package]
+name = "Relogio"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+ratatui = "0.29"
+crossterm = "0.28"
+chrono = "0.4.39"
+rand = "0.8"
+memmap2 = "0.9.5"
+
+
+[package.metadata.winres]
+path = "app_icon.res"
+
+[build-dependencies]
+embed-resource = "3.0"
